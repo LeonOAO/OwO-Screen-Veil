@@ -54,11 +54,14 @@
 
 ## ⚠️ 重要安全與隱私
 
-**OwO Screen Veil，並非 Windows 系統層級的安全鎖定工具。**
+下列畫面與功能仍由 Windows 優先處理：
 
-`Ctrl + Alt + Delete`、使用者帳戶控制（UAC）、Windows 安全畫面及其他系統層級功能，仍由 Windows 優先處理。
+- `Ctrl + Alt + Delete`
+- 使用者帳戶控制（UAC）
+- Windows 安全畫面
+- 其他系統層級功能
 
-如需系統層級的安全鎖定，請使用 Windows 內建鎖定功能，或組織核准的資訊安全機制。
+如需系統層級的安全鎖定，請使用 Windows 內建鎖定功能，或組織核准的資訊安全機制。機制。
 
 ---
 
