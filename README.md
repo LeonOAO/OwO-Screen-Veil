@@ -1,4 +1,6 @@
-# 🛡️ OwO Screen Veil
+﻿# 🛡️ OwO Screen Veil
+
+![OwO Screen Veil 畫面](Screenshots/OwO_Showcase.png)
 
 > **OwO Screen Veil** 可透過自訂全域快捷鍵，一鍵遮蔽當前顯示畫面，同時維持背景作業正常執行，適合在暫時離開座位或需要立即遮蔽螢幕內容時使用。
 
